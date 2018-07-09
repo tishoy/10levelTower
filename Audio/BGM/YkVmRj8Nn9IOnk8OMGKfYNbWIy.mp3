@@ -1,0 +1,147 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!--STATUS OK--><!--MSVRSTATUS_OK-->
+<HTML>
+    <HEAD>
+        <META http-equiv=Content-Type content="text/html; charset=gb2312">
+        <TITLE></TITLE>
+        <style type="text/css">
+            body {
+                margin: 0px;
+                padding: 0px;
+                background-color: #f1f1f1;
+            } * {
+                font-family: Arial;
+                margin: 0;
+                padding: 0;
+            } #c {
+                margin: 0px auto;
+                width: 100%;
+                font-size: 12px;
+            } .li {
+                font-size: 14px;
+                line-height: 18px;
+                font-weight: bold;
+                margin: 0 10px 0 0;
+            } .t td {
+                margin: 0px;
+                padding: 10px 40px 5px 40px;
+            }
+            
+            a.l, a.l:visited {
+                font-weight: normal;
+                color: #777777;
+                font-size: 12px;
+            } #c td {
+                font-weight: bold;
+            } #t {
+                background-color: white;
+                font-size: 14px;
+                line-height: 30px;
+            } * {
+                word-break: break-all;
+                word-wrap: break-word;
+            } #txt {
+                color: #777777;
+                line-height: 16px;
+            } #txt a {
+                color: #777777;
+                font-family: 宋体;
+            } #adv {
+                margin: 0 auto;
+                height: 300px;
+                width: 360px;
+            } #adv iframe {
+                width: 360px;
+                height: 300px
+            } #rAd {
+                position: absolute;
+                top: 20px;
+                right: 17px;
+            } #rAd iframe {
+                width: 140px;
+                height: 30px
+            } #adTxt {
+                height: 18px;
+                margin: 8px 13px 0px 40px;
+                text-align: right
+            } #adTxt iframe {
+                width: 200px;
+                height: 18px
+            } .clear {
+                clear: both;
+                height: 0;
+                font: 0 / 0px;
+                overflow: hidden;
+            } #mu {
+                margin: 0px 0px 0px 40px;
+            } #org {
+                margin: 0px 0px 15px 40px;
+                height: 50px
+            } .line {
+                height: 30px;
+            } .mu_l, .mu_r {
+                font-weight: bold;
+                float: left;
+            } .mu_l {
+                width: 120px;
+            } .mu_r {
+                margin-right: 10px;
+            }
+        </style>
+    </head>
+    <body leftmargin=0 topmargin=0 vlink="#0033CC" link="#0033CC">
+        <img src="http://imgs.zhangmen.baidu.com/wd/mp3-sg.jpg" style="display:none"/>
+        <noscript>
+            <img style="display:none" src="/wd/mp3-sg-nojs.jpg?r=1252026462" />
+        </noscript>
+        <div id="c">
+            <div id="t">
+                <div class="line">
+                </div>
+                <div id="org">
+                    <div id="rAd">
+                        
+                    </div>
+                    歌曲名：<a id="urln" href="" onmousedown="sd(event,-1);" target="_blank">激情  体育运动 运动场 轻快 激情背景音乐51</a>
+                    <br>
+                    <div class="mu_l">
+                        请点击此链接：
+                    </div>
+                    <div class="mu_r">
+                        <a id="urla" href="" onmousedown="sd(event,0)" target="_blank"></a>
+                    </div>
+                    <br class="clear">
+                </div>
+                <div id="mu">
+                    <div class="mu_l">
+                        其他歌曲来源：
+                    </div>
+                    <div class="mu_r" id="more">
+                    </div>
+                    <br class="clear">
+                </div>
+                <div id="adTxt">
+                    
+                </div>
+            </div>
+            <table class="t" width="100%" height="30px" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                    <td>
+                        <a class="l" title="根据用户指令，百度的搜索引擎系统会以非人工方式自动生成到第三方网页的链接。“百度”自身不存储、控制、编辑或修改被链接的第三方网页的信息。百度高度重视知识产权保护，并制定了旨在保护权利人的合法权益的措施和步骤，当权利人发现在百度生成的链接所指向的第三方网页内容侵犯其著作权时，请权利人向百度发出“权利通知”，百度将依法采取措施断开相关链接。">百度提示，请您阅读</a>
+                    </td>
+                    <td align="right">
+                        <a href="http://www.baidu.com/search/appcopyright.html" target="_blank" class="l">权利声明</a>
+                    </td>
+                </tr>
+            </table>
+            <div style="text-align:center">
+                <div id="adv">
+                    
+                </div>
+            </div>
+        </div>
+    </BODY>
+    <script>
+		var song_1252026462;var sertim=1252026462,statim=1;var subcnt=0;function G(A){return document.getElementById(A)}function log(A){var C="log_"+(new Date()).getTime();var B=window[C]=new Image();B.src=A;B=null}function sd(B,C){var B=B||window.event;var A=(B.button==2)?1:0;log("http://imgs.zhangmen.baidu.com/wd/sg-url.jpg?url="+song_1252026462+"&kc="+A+"&pos="+C+"&r="+Math.random())}function decode(B){var E=B.length;var C="";var I=[],F=[];var J=sertim%26;J=J?J:1;function K(O,L,M){for(var N=O;N<=L;N++){I[N]=N+M;F[N+M]=N}}K(0,9,48);K(10,35,55);K(36,61,61);for(var D=0;D<E;D++){var A=B.charAt(D);if(/[A-Za-z0-9]/.test(A)){var H=F[B.charCodeAt(D)]-J;if(H<0){H+=62}A=String.fromCharCode(I[H])}C+=A}return C}-function(){var B="5HHD://GC3HR.G1QRT.0CA/音乐音效/背景音乐大全试听/体育运动 运动场 轻快 激情/体育运动%QO运动场%QO轻快%QO激情背景音乐TP.ADR",A="";var D=G("urln"),C=G("urla");A=decode(B);D.href=C.href=song_1252026462=A;C.innerHTML=decode("5HHD://GC3HR.G1QRT.0CA/...%QO激情背景音乐TP.ADR");if(!statim||sertim-statim<3600){log("/wd/mp3-sg-decode.jpg?url="+A+"&r="+Math.random())}}();-function(){var C=["5HHD://KKK.T1.0B/ID9Cy1/QOOTOU/QTVP/326M2-76E6B4T1.ADR","5HHD://KKK.79QGM.0B/LGGE/MMM3/9A7E/4E/76E6B4%QO.ADR","5HHD://D9yM.17VVWWXX.0CA/ENCB2/QPX%cQ%XW%WUka%cT%ZO%Wd%cU%Xa%WW%cQ%WU%XQ%cW%YV%WU%cW%YV%WX%cU%Xc%XV%cX%WO%WP%cT%Wd%WZ[SO%cT%WT%WR]%cU%Zd%WO%cU%WR%WT.ADR","5HHD://J3692.5CA2.B2KG.0B/AIG60/DIz960/J1OQ/QOOXOQ/PP/PS/ks3GOQQOOXOQPPPPPUSWTQPS0yVS.ADR"];var B=["5HHD://KKK.T1.0B/...U/QTVP/326M2-76E6B4T1.ADR","5HHD://KKK.79QGM.0B/.../9A7E/4E/76E6B4%QO.ADR","5HHD://D9yM.17VVWWXX.0CA/...d%WO%cU%WR%WT.ADR","5HHD://J3692.5CA2.B2KG.0B/...PUSWTQPS0yVS.ADR"];var D="";for(var A in C){if(C[A]){subcnt++;if(subcnt>1){D+="<br>"}D+=subcnt+"：<a target='_blank' href='"+decode(C[A])+"' onmousedown='sd(event,"+subcnt+");'>"+decode(B[A])+"</a>"}}if(subcnt==0){G("mu").style.display="none"}else{G("more").innerHTML=D}}();-function(){var B=G("adv").innerHTML.replace(/(^[\s\t\xa0　]+)|([　\xa0\s\t]+$)/g,"")?300:0;var C=600,A=230+B+(subcnt*26);var E=(screen.width-C)/2,D=(screen.height-A)/2;moveTo(E,D);resizeTo(C,A)}();
+    </script>
+</HTML>
